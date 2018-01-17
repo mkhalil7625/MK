@@ -6,5 +6,6 @@ public class PizzaRolls {
         int people = 7;
         double rollsperperson = PizzaRolls/people;
         System.out.println("Each person gets "+rollsperperson+" rolls");
+        System.out.println("Hello");
     }
 }
